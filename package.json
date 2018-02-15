@@ -1,0 +1,16 @@
+{
+  "name": "hot-yoga-hangman",
+  "version": "1.0.0",
+  "description": "Forget about hangman, it's hot yoga time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katherine R",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "random-word": "^2.0.0"
+  }
+}
