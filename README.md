@@ -1,5 +1,7 @@
 # Node Hangman 
 
+![demo](demo.gif)
+
 ### To Use This Game
 
 ```
